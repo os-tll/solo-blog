@@ -10,6 +10,8 @@ os-tll 的个人博客
 
 ### 最新
 
+* [关于伙伴自动补录工时和提醒(测试) ](https://www.supertll.xyz/articles/2019/11/21/1574316522598.html)
+* [Navicat12 破解安装](https://www.supertll.xyz/articles/2019/11/21/1574316033946.html)
 * [大宇宙信息创造(中国)有限公司工作经历](https://www.supertll.xyz/articles/2019/11/17/1573973512872.html)
 * [SpringCloud之配置中心](https://www.supertll.xyz/articles/2019/11/15/1573822211648.html)
 * [Mybatis引入](https://www.supertll.xyz/articles/2019/11/11/1573439399177.html)
