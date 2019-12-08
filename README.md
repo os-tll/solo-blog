@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [第二章 线性表](https://www.supertll.xyz/articles/2019/12/07/1575710080038.html)
 * [第一章-绪论](https://www.supertll.xyz/articles/2019/11/29/1575030221704.html)
 * [“数据结构与C语言程序设计"（2020版） ](https://www.supertll.xyz/articles/2019/11/29/1575010729740.html)
 * [“数据结构与C语言程序设计"（2020版）](https://www.supertll.xyz/articles/2019/11/29/1575010540363.html)
